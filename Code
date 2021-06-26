@@ -1,4 +1,4 @@
-//LED_FLASHER ARDUINO IDE CODE BY DURGA SAI
+//BLINKY LED ARDUINO IDE CODE BY TANUJA DASARI
 void setup()
 {
   pinMode(13, OUTPUT);//positive terminal of LED is connected to Pin No 13 in Arduino UNO board

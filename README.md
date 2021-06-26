@@ -20,7 +20,7 @@ IoT and ARDUINO Projects
      Whenever you use an LED, you always want to include a resistor. Otherwise, you'll overload the LED and it will blow out. It doesn't matter whether you put the resistor before the LED or after it, on the + side or on the ground side, as long as it's there.
   2. Open the Arduino IDE software.
   3. Click on file and then click on new to create a new sketch file.
-  4. [Code] the Arduino UNO to control LED Flasher.
+  4. [Code](https://github.com/tanujadasari/Blinky/blob/main/Code) the Arduino UNO to control LED Flasher.
   5. Connect Arduino UNO to computer.
   6. Click on tools and then click on board and select Arduino UNO.
   7. Now, select correct serial port by clicking on Tools and then Serial Port select required Port.
@@ -29,7 +29,7 @@ IoT and ARDUINO Projects
   1. Open [Tinkercad](https://www.tinkercad.com/dashboard)
   2. Select "Circuits" there.
   3. Make the connections as per circuit diagram. 
-  4. Click on code button and then Blocks select one(Blocks, Blocks+Text,Text) to [Code]![FlasherCircuit](https://user-images.githubusercontent.com/85128689/123168795-148e8700-d496-11eb-8402-0b54636e5f5d.jpeg)
+  4. Click on code button and then Blocks select one(Blocks, Blocks+Text,Text) to [Code](https://github.com/tanujadasari/Blinky/blob/main/Code)![FlasherCircuit](https://user-images.githubusercontent.com/85128689/123168795-148e8700-d496-11eb-8402-0b54636e5f5d.jpeg)
   5. Now, Start simulation to observe the output.
 
 * **Observation:** The LED in circuit is obsereved be to turn ON and OFF (i.e., Blinking)for regular interval of time.

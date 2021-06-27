@@ -1,4 +1,4 @@
-# Blinky :page_with_curl:
+# SMART LED :page_with_curl:
 IoT and ARDUINO Projects
 * **Aim:**  **Blinking LED** in a more smarter way using Arduino UNO.
 * **Appartus:**
